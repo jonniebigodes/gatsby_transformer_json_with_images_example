@@ -1,0 +1,18 @@
+[
+    {
+        "title":"Contact",
+        "description":"This is the contact page",
+        "link":"/contact/",
+        "image":{
+            "src":"contact.png"
+        }
+    },
+    {
+        "title":"Services",
+        "description":"This is the services page",
+        "link":"/services/",
+        "image":{
+            "src":"service.jpg"
+        }
+    }
+]
